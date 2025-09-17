@@ -1,0 +1,40 @@
+COMANDOS IMPORTANTES PARA USAR NO TERMINAL
+
+cd -> voltar a raiz/root do S.O
+
+ls -> listar pastas
+
+cd .. -> voltar uma pasta anterior
+
+cd nome_pasta -> abrir uma pasta
+
+cd "C:/" -> abrir um endereço
+
+pwd -> mostrar o caminho atual da pasta
+
+explorer -> abre uma pasta com explorador do S.O 
+
+
+git init -> comando para iniciar repositório .git (serve tanto para o terminal do VSCode quanto do GitBash)
+
+git status -> verificar situação do repositório
+
+git add. -> adicionar arquivos para o commit
+
+git commit -m -> comando para fazer o commit ao repositório local/remoto
+
+git log -> visualiza o histórico de commits
+
+git show -> exibir o conteúdo do commit Exemplo: git show d1234
+    d1234 -> é código do commit que é singularizado em cada máquina
+    utilize o Q (de quit) para sair do show.
+
+git branch -> lista de branch's 
+
+git branch -d nome -> remove uma branch 
+
+git branch -m nome_antigo_ nome_novo -> renomear uma branch
+
+git chackout nome_branch -> selecionar uma branch existente
+
+git checkout -b nome_da_branch -> criar uma nova branch e selecionar ela 
